@@ -1,2 +1,23 @@
 Bora Haliloğlu - 22101852 - https://github.com/borahll/
 Call Of Duty
+commit cf00802fcd0178a42250de8dd2cc52abd62fa117 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 09a817e 3e27cf7
+Author: Bora Haliloglu <91379730+borahll@users.noreply.github.com>
+Date:   Wed Feb 9 22:29:17 2022 +0300
+
+    Merge pull request #1 from borahll/new_information
+    
+    New Info
+
+commit 3e27cf7e6f901e1b29aad2e6322b78188375d00e (origin/new_information, new_information)
+Author: Bhll <bora.haliloglu@ug.bilkent.edu.tr>
+Date:   Wed Feb 9 22:23:24 2022 +0300
+
+    New Info
+
+commit 09a817e3c333ebc8c20fabdd22a69cf063a27f55
+Author: Bhll <bora.haliloglu@ug.bilkent.edu.tr>
+Date:   Wed Feb 9 22:08:36 2022 +0300
+
+    cs102 git
+
